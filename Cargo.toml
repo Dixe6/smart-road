@@ -1,0 +1,8 @@
+[package]
+name = "smart_road"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sdl2 = { version = "0.34.5", features = ["image", "ttf"] }
+rand = "0.8.5"
